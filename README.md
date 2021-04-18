@@ -1,7 +1,8 @@
 # DS8008_NLP_PROJECT_GNN
 
 This is a replica study of the paper Message Passing Attention Networks for Document Understanding. 
-Link to paper: https://arxiv.org/abs/1908.06267
+
+**Link to paper:** https://arxiv.org/abs/1908.06267
 
 **Abstract:**
 
@@ -9,14 +10,14 @@ Document classification is the task of assigning a document to one or more categ
 
 **Report:**
 
-Please reference the file Using **Message Passing Attention Graph Neural Networks for Document Classification.ipynb** for the report and implementation of the graph neural network (GNN)
+Please reference the file **Message Passing Attention Graph Neural Networks for Document Classification.ipynb** for the report and implementation of the GNN
 
-**Sorce Code:**
+**Source Code:**
 
 The src folder contains code for helper functions used by the GNN model, and the implementation for the baseline models (LSTM & Feed Forward Neural Network)
 
 **Dataset:**
 
-All datasets used for this project can be found in the data folder. For the pre-trained Google News vectors please use the following link to download: https://code.google.com/p/word2vec/
+All datasets used for this project can be found in the data folder. For the pre-trained Google News vectors please use the following link to download the embeddings https://code.google.com/p/word2vec/
 
 
