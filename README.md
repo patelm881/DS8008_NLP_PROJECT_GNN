@@ -3,7 +3,7 @@
 This is a replica study of the paper Message Passing Attention Networks for Document Understanding. 
 Link to paper: https://arxiv.org/abs/1908.06267
 
-**Abstract: **
+**Abstract:**
 
 Document classification is the task of assigning a document to one or more categories based on its content. The following research explores Graph Neural Network (GNN) models for document classification. GNN are capable of handling large complex structures and retaining global information (L Huang et al., 2019). This research proposes Message Passing GNN for document understanding. This is a replication study based on the paper Message Passing Attention Networks for Document Understanding.
 
